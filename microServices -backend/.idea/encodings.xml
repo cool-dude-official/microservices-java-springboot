@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/API-Gateway-Port-8080/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka-Server-Port-8761/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Inventory-Service-Port-8081/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Order-Service-Port-8083/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Payment-Service-Port-8082/src/main/java" charset="UTF-8" />
+  </component>
+</project>
