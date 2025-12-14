@@ -1,0 +1,18 @@
+# Mac system files
+.DS_Store
+
+# IDE files
+.idea/
+*.iml
+
+# Maven/Gradle build folders
+target/
+build/
+
+# Node modules for frontend
+node_modules/
+
+# Logs
+*.log
+
+
